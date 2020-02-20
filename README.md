@@ -4,7 +4,7 @@
 
 - [Docker部署2](https://ssu.tw/index.php/archives/31/)
 
-##### 使用Docker快速部署Trojan协议
+##### Docker 快速部署 Trojan协议
 
 - [Docker部署Trojan图文教程](https://ssu.tw/index.php/archives/40/)
 
